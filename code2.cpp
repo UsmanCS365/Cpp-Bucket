@@ -19,7 +19,7 @@ int main(){
     cout<<"Enter the power of"<<x<<"  to raise it"<<endl;
     cin>>y;
     int result =power(x, y);
-    cout<<x<<" to the power of"<<y<<" is:\t"<<result<<endl; 
+    cout<<x<<" to the power of "<<y<<" is:\t"<<result<<endl; 
 
 
     return 0;
